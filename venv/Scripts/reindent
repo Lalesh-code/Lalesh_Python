@@ -1,0 +1,3 @@
+#!C:\Users\Admin\PycharmProjects\Lalesh_Python\venv\Scripts\python.exe
+from reindent import main
+main()
